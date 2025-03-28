@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Lib1221/A2SV/tree/master/0172-factorial-trailing-zeroes) |
+| [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lib1221/A2SV/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
