@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lib1221/A2SV/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lib1221/A2SV/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
