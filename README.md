@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 | [1242-matrix-block-sum](https://github.com/Lib1221/A2SV/tree/master/1242-matrix-block-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lib1221/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Lib1221/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2574-count-subarrays-with-median-k](https://github.com/Lib1221/A2SV/tree/master/2574-count-subarrays-with-median-k) |
 ## Backtracking
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Lib1221/A2SV/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Lib1221/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
