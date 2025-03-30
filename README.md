@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Lib1221/A2SV/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
+| [1242-matrix-block-sum](https://github.com/Lib1221/A2SV/tree/master/1242-matrix-block-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lib1221/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Backtracking
 |  |
@@ -135,4 +136,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lib1221/A2SV/tree/master/0074-search-a-2d-matrix) |
+| [1242-matrix-block-sum](https://github.com/Lib1221/A2SV/tree/master/1242-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/Lib1221/A2SV/tree/master/1242-matrix-block-sum) |
 <!---LeetCode Topics End-->
