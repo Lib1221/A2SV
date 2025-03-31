@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Lib1221/A2SV/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Lib1221/A2SV/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-count-subarrays-with-median-k](https://github.com/Lib1221/A2SV/tree/master/2574-count-subarrays-with-median-k) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Lib1221/A2SV/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
