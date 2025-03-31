@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lib1221/A2SV/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lib1221/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
 | [2574-count-subarrays-with-median-k](https://github.com/Lib1221/A2SV/tree/master/2574-count-subarrays-with-median-k) |
 ## Linked List
 |  |
