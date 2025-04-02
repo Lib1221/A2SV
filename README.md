@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Lib1221/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lib1221/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lib1221/A2SV/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Lib1221/A2SV/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Lib1221/A2SV/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Lib1221/A2SV/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lib1221/A2SV/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2574-count-subarrays-with-median-k](https://github.com/Lib1221/A2SV/tree/master/2574-count-subarrays-with-median-k) |
 ## Linked List
