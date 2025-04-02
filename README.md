@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -174,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lib1221/A2SV/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Lib1221/A2SV/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
