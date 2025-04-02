@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Lib1221/A2SV/tree/master/0119-pascals-triangle-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lib1221/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 | [1242-matrix-block-sum](https://github.com/Lib1221/A2SV/tree/master/1242-matrix-block-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lib1221/A2SV/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2574-count-subarrays-with-median-k](https://github.com/Lib1221/A2SV/tree/master/2574-count-subarrays-with-median-k) |
 ## Linked List
 |  |
