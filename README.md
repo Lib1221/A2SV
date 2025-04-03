@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lib1221/A2SV/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lib1221/A2SV/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Lib1221/A2SV/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Lib1221/A2SV/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lib1221/A2SV/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lib1221/A2SV/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
