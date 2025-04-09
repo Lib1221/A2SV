@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/Lib1221/A2SV/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
+| [1039-find-the-town-judge](https://github.com/Lib1221/A2SV/tree/master/1039-find-the-town-judge) |
 | [1242-matrix-block-sum](https://github.com/Lib1221/A2SV/tree/master/1242-matrix-block-sum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Lib1221/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Lib1221/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Lib1221/A2SV/tree/master/0645-set-mismatch) |
+| [1039-find-the-town-judge](https://github.com/Lib1221/A2SV/tree/master/1039-find-the-town-judge) |
 | [2574-count-subarrays-with-median-k](https://github.com/Lib1221/A2SV/tree/master/2574-count-subarrays-with-median-k) |
 ## Linked List
 |  |
@@ -220,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Lib1221/A2SV/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lib1221/A2SV/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
