@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Lib1221/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/Lib1221/A2SV/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Lib1221/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lib1221/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Lib1221/A2SV/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Lib1221/A2SV/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Lib1221/A2SV/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Lib1221/A2SV/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Lib1221/A2SV/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Lib1221/A2SV/tree/master/0486-predict-the-winner) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Lib1221/A2SV/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
