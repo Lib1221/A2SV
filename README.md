@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lib1221/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Lib1221/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0229-majority-element-ii](https://github.com/Lib1221/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Lib1221/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lib1221/A2SV/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Lib1221/A2SV/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Lib1221/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Lib1221/A2SV/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Lib1221/A2SV/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Lib1221/A2SV/tree/master/0948-sort-an-array) |
 ## Stack
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lib1221/A2SV/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
+| [0229-majority-element-ii](https://github.com/Lib1221/A2SV/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lib1221/A2SV/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lib1221/A2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
