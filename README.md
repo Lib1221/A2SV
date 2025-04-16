@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lib1221/A2SV/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Lib1221/A2SV/tree/master/0076-minimum-window-substring) |
+| [3379-score-of-a-string](https://github.com/Lib1221/A2SV/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
